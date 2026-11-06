@@ -1,0 +1,31 @@
+/*  
+Name:Mohd Zuhaib Malik
+Roll Number: 2550303024
+Assignment Number: 06
+*/
+body {
+    font-family: Arial, sans-serif;
+    background: #fefce8;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: #ca8a04;
+}
+
+.box {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #854d0e;
+}
+
+li, dd {
+    margin: 8px 0;
+}
